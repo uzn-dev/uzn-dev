@@ -1,4 +1,8 @@
-# Hi there, I'm Uzn! 👋
+# Hi, I'm Uzn! 👋
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=uzn-dev&label=Profile%20views&color=0e75b6&style=flat" alt="uzn-dev" />
+</p>
 
 ### 🎓 About Me
 - 🏫 **Graduate Student** @ **National Taiwan University (NTU)**
@@ -11,13 +15,17 @@
 - [ ] 🤖 Master core **Machine Learning** concepts (Hung-yi Lee's lectures & 3Blue1Brown)
 
 ### 🛠 Tech Stack & Tools
-- **Languages:** C++, Python, MATLAB
+- **Languages:** `C++`, `Python`, `MATLAB`
 - **Focus:** Algorithms, Data Structures, Numerical Methods
 - **Automation:** iPhone Shortcuts & Productivity hacks
 
 ### 📊 GitHub Activity
-![Uzn's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzn-dev&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzn-dev&layout=compact&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uzn-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Uzn's GitHub stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzn-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180px" />
+</p>
 
 ---
-"Speed is my goal, both in code and on the field." ⚡⚾
+<p align="center">
+  <i>"Speed is my goal, both in code and on the field."</i> ⚡⚾
+</p>
