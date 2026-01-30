@@ -22,7 +22,10 @@
 ### 📊 GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=uzn-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Uzn's GitHub stats" width="49%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=uzn-dev&theme=tokyonight&hide_border=true&layout=donw" alt="Top Langs" width="49%" />
+</p
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=uzn-dev&layout=donut&theme=tokyonight&hide_border=true" alt="Top Langs" height="180px" />
 </p>
 
 ---
